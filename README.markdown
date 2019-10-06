@@ -8,8 +8,8 @@ installation
 
 add the following to require property of your composer.json file:
 
-`"xamin/handlebars.php": "dev-master"` for php 5.3+
-`"xamin/handlebars.php": "dev-php-52"` for php 5.2
+`"ineventapp/handlebars.php": "dev-master"` for php 5.3+
+`"ineventapp/handlebars.php": "dev-php-52"` for php 5.2
 
 then run:
 
